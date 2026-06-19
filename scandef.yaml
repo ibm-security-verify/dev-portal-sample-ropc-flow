@@ -10,7 +10,7 @@ defaults:
       - name: "dev-portal"
 
 squads:
-- name: development
+- name: dev-sample-ropc-flow
   sourceRepositories:
   - name: Sample code for ROPC flow
     sourceRepos: 
